@@ -95,5 +95,5 @@ parentThing.appendChild(autoInjectIndicator);
 var currentStatus = document.createElement('li');
 parentThing.appendChild(currentStatus);
 var wordScript = document.createElement("script");
-wordScript.src = "http://dabsunter.github.io/sparklin-exploder/dictionary.js";
+wordScript.src = "https://cdn.jsdelivr.net/gh/olokhyn/Cheat/dictionary.js";
 document.head.appendChild(wordScript);﻿
